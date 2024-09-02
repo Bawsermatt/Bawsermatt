@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I know many programming languages, Linux applications and more<br>🌱 I'm learning other programming languages...<br>💬 Ask me about my  project<br>⚡ I'm making a game with godot
+🔭 I know many programming languages, Linux applications and more<br>🌱 I'm learning other programming languages...<br>💬 Ask me about my  project<br>⚡ A young developer from Italy
 
 
 # 💻 Tech Stack:
